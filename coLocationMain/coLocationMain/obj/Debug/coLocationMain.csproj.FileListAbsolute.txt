@@ -1,0 +1,10 @@
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\bin\Debug\coLocationMain.exe.config
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\bin\Debug\coLocationMain.exe
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\bin\Debug\coLocationMain.pdb
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.csprojAssemblyReference.cache
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.Form1.resources
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.Properties.Resources.resources
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.csproj.GenerateResource.cache
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.csproj.CoreCompileInputs.cache
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.exe
+E:\Code\CS\Colocation\coLocationMain\coLocationMain\obj\Debug\coLocationMain.pdb
